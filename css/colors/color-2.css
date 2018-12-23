@@ -1,0 +1,25 @@
+
+.avatar-contact,.main-menu-wrap .navbar .navbar-nav li::after,.navigation ul li > a::before{
+    background: #049285;
+}
+.main-menu-wrap,.custom-btn:hover,.footer-section .copy-right .footer-scoial a:hover{
+    background: #04867a;
+}
+.intro-area .avatar-img img,.work-process .work-wrap .single-step span.step-shape,.testimonial-section .single-testimonial .client-bio .client-thumb img,.resume-list .single-resume::before{
+    border-color: #70d2c9;
+}
+.work-process{
+    background: linear-gradient(to right, #009688, #0bbdb7);
+}
+.header-area,.about-details .skill .progress .progress-bar,.about-details .skill .progress .progress-bar span,.custom-btn,.section-intro span,.resume-list .single-resume::before,.fun-section::before,.work-process .work-wrap .single-step span.step-shape,.portfolio-menu li::before,.grid-item .grid-inner:hover::before,#scrollUp,.main-menu-wrap .fixed,.widget .widget-title,.single-post .post-content blockquote::before,.single-post .post-content .post-share .share-link a:hover,.comment-title,.post-comments ol li article.comment-body .comment-details .comment-reply:hover::before,.write-comments form .form-group .custom-btn,.widget .tagclouds a:hover,.sidebar-nav,.hire-section .hire-wrap .custom-btn:hover,.tooltip-inner,.resume-list .duration,.hire-section::before,.footer-section .copy-right .footer-scoial a{
+    background: #009688;
+}
+.about-details .about-info > span,.resume-title span,.single-service span,.single-service:hover .service-heading,.portfolio-menu li.active a,.portfolio-menu li a:hover,.grid-item .grid-inner .port-hover .port-popup,.grid-item .modal-dialog .demo-details .date,.grid-item .modal-dialog .modal-body button,.blog-section .single-entry:hover .entry-title a,.blog-section .single-entry .entry-info .custom-btn:hover,.blog-section .entry-meta span a:hover, .blog-section .entry-meta a a:hover,.grid-item .modal-dialog .modal-body button:hover,.pricing-section .single-price .price-amount span,.single-post .post-content .post-meta li a:hover,.single-post .post-content blockquote,.single-post .post-content .post-share h3,.single-post .post-content .post-share .share-link a,.post-comments ol li article.comment-body .comment-details .comment-name,.post-comments ol li article.comment-body .comment-details .comment-reply:hover,.widget.about-widget .author-social a:hover,.widget ul li:hover a,.widget .feature-posts .single-feature .sf-text h4:hover a,.widget .feature-posts .single-feature .sf-text .sf-meta a span,.widget.tweeter-widget .tweets-wrap .single-tweet span,.widget.tweeter-widget .tweets-wrap .single-tweet p a,.widget .tagclouds a,.footer-section .copy-right p a,.testimonial-section .single-testimonial h3,.testimonial-section .owl-nav > div,.blog-section .single-entry:hover .entry-info .entry-title a, .blog-section .single-entry:hover .entry-info .custom-btn,.fun-section .single-fun span,.hire-section .hire-wrap .custom-btn{
+    color: #009688;
+}
+.about-details .skill .progress .progress-bar span:before,.tooltip.bs-tooltip-auto[x-placement^=top] .arrow::before, .tooltip.bs-tooltip-top .arrow::before{
+    border-top-color: #009688;
+}
+.resume-list .duration::before{
+    border-right-color: #009688;
+}
