@@ -1,8 +1,8 @@
 /* ---------------------------------------------------------------------- 
 * Product Name: Color-Switcher-Plugin
-* Product URI: http://shariarbd.com/demo/color-switcher-plugin/
+* Product URI: https://shariarbd.com/demo/color-switcher-plugin/
 * Author: Shariar
-* Author URI: http://shariarbd.com/
+* Author URI: https://shariarbd.com/
 * Description: Color Switcher plugin is a simple and easy to use plugin used to switch color of a site.
 * Version: 1.0.0
 * License: The MIT License (MIT)
