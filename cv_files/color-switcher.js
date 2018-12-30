@@ -1,17 +1,3 @@
-/* ---------------------------------------------------------------------- 
-* Product Name: Color-Switcher-Plugin
-* Product URI: https://shariarbd.com/demo/color-switcher-plugin/
-* Author: Shariar
-* Author URI: https://shariarbd.com/
-* Description: Color Switcher plugin is a simple and easy to use plugin used to switch color of a site.
-* Version: 1.0.0
-* License: The MIT License (MIT)
-* Tags: color switcher
-* ---------------------------------------------------------------------- */
-
-/* Styles Switcher
------------------------------------------------------------------------- */
-
 window.console = window.console || (function(){
 	var c = {}; c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile = c.clear = c.exception = c.trace = c.assert = function(){};
 	return c;
@@ -87,22 +73,3 @@ jQuery(document).ready(function($) {
 //Inject Necessary Styles and HTML
 jQuery('head').append('<link rel="stylesheet" id="colors" href="css/colors/default.css" type="text/css" />');
 jQuery('head').append('<link rel="stylesheet" href="css/color-switcher.css" type="text/css" />'); 
-
-jQuery('body').append('' + 
-	'<div id="color-style-switcher">' +
-		'<div>' + 
-			'<h3>Choose Color</h3>' +
-			'<ul class="colors">' +
-				'<li><a class="color1 active" href="#"></a></li>' +
-				'<li><a class="color2" href="#"></a></li>' +
-				'<li><a class="color3" href="#"></a></li>' +
-				'<li><a class="color4" href="#"></a></li>' +
-				'<li><a class="color5" href="#"></a></li>' +
-				'<li><a class="color6" href="#"></a></li>' +
-				'<li><a class="color7" href="#"></a></li>' +
-				'<li><a class="color8" href="#"></a></li>' +
-			'</ul>' +
-		'</div>' +
-		'<div class="bottom"> <a href="#" class="settings"></a> </div>' +
-	'</div>' +
-'');

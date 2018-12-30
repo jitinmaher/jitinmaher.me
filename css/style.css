@@ -7090,6 +7090,7 @@ Owl Nav*/
     border-radius: 50%;
     display: inline-block;
     vertical-align: middle;
+    margin-bottom: 70px;
     border: 12px solid rgba(0, 0, 0, 0.1); }
     .intro-area .avatar-img img {
       -moz-border-radius: 50%;
